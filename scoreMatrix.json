@@ -1,0 +1,122 @@
+[
+    {
+      "CRD Approval": "1_score",
+      "Notes": "",
+      "Customer Age": "",
+      "Biggest Loan Paid OFF": "5000",
+      "Open Loans": "5000",
+      "Open Default Loans": 0,
+      "Closed Default Loans": 0,
+      "Written OFF Loans": 0,
+      "Settled After Default Loans": 0,
+      "Past 10 Loans Above 5000": 5
+    },
+    {
+      "CRD Approval": "2_score",
+      "Notes": "",
+      "Customer Age": "",
+      "Biggest Loan Paid OFF": "5000",
+      "Open Loans": "5000",
+      "Open Default Loans": 0,
+      "Closed Default Loans": 0,
+      "Written OFF Loans": 0,
+      "Settled After Default Loans": 0,
+      "Past 10 Loans Above 5000": 4
+    },
+    {
+      "CRD Approval": "3_score",
+      "Notes": "",
+      "Customer Age": "",
+      "Biggest Loan Paid OFF": "5000",
+      "Open Loans": "5000",
+      "Open Default Loans": 0,
+      "Closed Default Loans": 0,
+      "Written OFF Loans": 0,
+      "Settled After Default Loans": 0,
+      "Past 10 Loans Above 5000": 3
+    },
+    {
+      "CRD Approval": "4_score",
+      "Notes": "",
+      "Customer Age": "",
+      "Biggest Loan Paid OFF": "5000",
+      "Open Loans": "5000",
+      "Open Default Loans": 0,
+      "Closed Default Loans": 1,
+      "Written OFF Loans": 0,
+      "Settled After Default Loans": 0,
+      "Past 10 Loans Above 5000": 2
+    },
+    {
+      "CRD Approval": "5_score",
+      "Notes": "",
+      "Customer Age": "",
+      "Biggest Loan Paid OFF": "5000",
+      "Open Loans": "5000",
+      "Open Default Loans": 0,
+      "Closed Default Loans": 2,
+      "Written OFF Loans": 0,
+      "Settled After Default Loans": 0,
+      "Past 10 Loans Above 5000": 1
+    },
+    {
+      "CRD Approval": "6_Ynoscore",
+      "Notes": "empty or no CRB  report - BELOW 25  YEARS AGE",
+      "Customer Age": "25",
+      "Biggest Loan Paid OFF": "5000",
+      "Open Loans": "5000",
+      "Open Default Loans": 0,
+      "Closed Default Loans": 0,
+      "Written OFF Loans": 0,
+      "Settled After Default Loans": 0,
+      "Past 10 Loans Above 5000": 0
+    },
+    {
+      "CRD Approval": "8_Znoscore",
+      "Notes": "empty or no CRB  report - OVER 25 YEARS AGE",
+      "Customer Age": "25",
+      "Biggest Loan Paid OFF": "5000",
+      "Open Loans": "5000",
+      "Open Default Loans": 0,
+      "Closed Default Loans": 0,
+      "Written OFF Loans": 0,
+      "Settled After Default Loans": 0,
+      "Past 10 Loans Above 5000": 0
+    },
+    {
+      "CRD Approval": "7_score",
+      "Notes": "Bad score on old lending, - sell on cash",
+      "Customer Age": "",
+      "Biggest Loan Paid OFF": "",
+      "Open Loans": "",
+      "Open Default Loans": 1,
+      "Closed Default Loans": 3,
+      "Written OFF Loans": 1,
+      "Settled After Default Loans": 1,
+      "Past 10 Loans Above 5000": ""
+    },
+    {
+      "CRD Approval": "7_BAD",
+      "Notes": "Bad score on old lending, - sell on cash",
+      "Customer Age": "",
+      "Biggest Loan Paid OFF": "",
+      "Open Loans": "",
+      "Open Default Loans": "",
+      "Closed Default Loans": "",
+      "Written OFF Loans": 2,
+      "Settled After Default Loans": "",
+      "Past 10 Loans Above 5000": ""
+    },
+    {
+      "CRD Approval": "CANT_BE_DETERMINED",
+      "Notes": "",
+      "Customer Age": "",
+      "Biggest Loan Paid OFF": "",
+      "Open Loans": "",
+      "Open Default Loans": "",
+      "Closed Default Loans": "",
+      "Written OFF Loans": "",
+      "Settled After Default Loans": "",
+      "Past 10 Loans Above 5000": ""
+    }
+  ]

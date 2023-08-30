@@ -1,0 +1,213 @@
+const data = {
+    "account_info": [
+        {
+            "account_number": "PL00071073",
+            "account_status": "Active",
+            "current_balance": "1667.06000",
+            "date_opened": "2018-04-05",
+            "days_in_arrears": 0,
+            "delinquency_code": "005",
+            "highest_days_in_arrears": 1246,
+            "is_your_account": false,
+            "last_payment_amount": "1667.06000",
+            "last_payment_date": "2018-08-02",
+            "loaded_at": "2022-11-30",
+            "original_amount": "1500.00000",
+            "overdue_balance": "0.00000",
+            "overdue_date": null,
+            "product_type_id": 18
+        },
+        {
+            "account_number": "25479600816620190911",
+            "account_status": "Active",
+            "current_balance": "110.16000",
+            "date_opened": "2019-09-11",
+            "days_in_arrears": 0,
+            "delinquency_code": "003",
+            "highest_days_in_arrears": 0,
+            "is_your_account": false,
+            "last_payment_amount": "0.00000",
+            "last_payment_date": null,
+            "loaded_at": "2023-05-04",
+            "original_amount": "110.00000",
+            "overdue_balance": "0.00000",
+            "overdue_date": null,
+            "product_type_id": 7
+        },
+        {
+            "account_number": "25471431623820230429",
+            "account_status": "Closed",
+            "current_balance": "0.00000",
+            "date_opened": "2023-04-29",
+            "days_in_arrears": 0,
+            "delinquency_code": "003",
+            "highest_days_in_arrears": 0,
+            "is_your_account": false,
+            "last_payment_amount": "0.00000",
+            "last_payment_date": null,
+            "loaded_at": "2023-05-04",
+            "original_amount": "200.09000",
+            "overdue_balance": "0.00000",
+            "overdue_date": null,
+            "product_type_id": 7
+        },
+        {
+            "account_number": "25471431623820230511",
+            "account_status": "Closed",
+            "current_balance": "0.00000",
+            "date_opened": "2023-05-11",
+            "days_in_arrears": 0,
+            "delinquency_code": "003",
+            "highest_days_in_arrears": 0,
+            "is_your_account": false,
+            "last_payment_amount": "0.00000",
+            "last_payment_date": null,
+            "loaded_at": "2023-06-09",
+            "original_amount": "243.49000",
+            "overdue_balance": "0.00000",
+            "overdue_date": null,
+            "product_type_id": 7
+        },
+        {
+            "account_number": "25471431623820230629",
+            "account_status": "Closed",
+            "current_balance": "0.00000",
+            "date_opened": "2023-06-29",
+            "days_in_arrears": 0,
+            "delinquency_code": "003",
+            "highest_days_in_arrears": 0,
+            "is_your_account": false,
+            "last_payment_amount": "0.00000",
+            "last_payment_date": null,
+            "loaded_at": "2023-07-06",
+            "original_amount": "196.97000",
+            "overdue_balance": "0.00000",
+            "overdue_date": null,
+            "product_type_id": 7
+        }
+    ],
+    "api_code": null,
+    "api_code_description": null,
+    "association": [],
+    "credit_score": 435,
+    "delinquency_code": "005",
+    "guarantors": [],
+    "has_error": false,
+    "has_fraud": false,
+    "identity_number": "33741590",
+    "identity_scrub": {
+        "api_code": null,
+        "api_code_description": null,
+        "bio_nationality": [
+            "KENYA"
+        ],
+        "date_of_being": [
+            "1997-01-01",
+            "1997-04-15"
+        ],
+        "email": [],
+        "employment": [],
+        "gender": [
+            "F"
+        ],
+        "has_error": false,
+        "identity_number": "33741590",
+        "identity_type": "National ID",
+        "identity_type_id": "001",
+        "identity_website": [],
+        "marital_status": [
+            "U"
+        ],
+        "names": [
+            "SARAH  MURINGI",
+            "SARAH MUTHONI MURINGI",
+            "MUTHONI SARAH",
+            "Sarah Muringi",
+            "MURINGI SARAH MUTHONI"
+        ],
+        "phone": [
+            "254714316238",
+            "254796008166",
+            "254701327340"
+        ],
+        "physical_address": [
+            [
+                "Object"
+            ]
+        ],
+        "postal_address": [
+            [
+                "Object"
+            ]
+        ]
+    },
+    "identity_type": "001",
+    "identity_verification": {
+        "api_code": 200,
+        "api_code_description": null,
+        "citizenship": "Kenyan",
+        "clan": "",
+        "date_of_birth": "1997-04-15",
+        "date_of_death": null,
+        "date_of_issue": "",
+        "dob": "1997-04-15",
+        "dod": null,
+        "error": false,
+        "error_message": null,
+        "error_occured": false,
+        "ethnic_group": null,
+        "family": null,
+        "fingerprint": null,
+        "first_name": "SARAH",
+        "gender": "F",
+        "has_error": false,
+        "id_number": "33741590",
+        "identity_number": "33741590",
+        "identity_type": "001",
+        "last_name": "MUTHONI",
+        "message": null,
+        "occupation": null,
+        "other_name": "MUTHONI",
+        "photo": null,
+        "place_of_birth": "",
+        "place_of_death": "",
+        "place_of_live": null,
+        "regoffice": "",
+        "serial_number": "",
+        "signature": null,
+        "surname": "MURINGI",
+        "trx_id": "a93cab69-4a38-467b-8af1-b9fc40972e56"
+    },
+    "is_guarantor": false,
+    "lender_sector": {
+        "sector_bank": {
+            "account_npa": 0,
+            "account_performing": 4,
+            "account_performing_npa_history": 1
+        },
+        "sector_other": {
+            "account_npa": 0,
+            "account_performing": 0,
+            "account_performing_npa_history": 0
+        }
+    },
+    "no_of_bounced_cheques": {
+        "last_12_months": 0,
+        "last_3_months": 0,
+        "last_6_months": 0
+    },
+    "no_of_credit_applications": {
+        "last_12_months": 0,
+        "last_3_months": 0,
+        "last_6_months": 0
+    },
+    "no_of_enquiries": {
+        "last_12_months": 0,
+        "last_3_months": 0,
+        "last_6_months": 0
+    },
+    "stakeholders": [],
+    "trx_id": "a93cab69-4a38-467b-8af1-b9fc40972e56"
+}
+return data
+
